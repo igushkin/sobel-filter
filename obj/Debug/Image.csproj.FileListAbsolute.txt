@@ -1,0 +1,16 @@
+C:\Users\igush\Downloads\Image.csproj\bin\Debug\eurobot.bmp
+C:\Users\igush\Downloads\Image.csproj\bin\Debug\Recognizer.exe.config
+C:\Users\igush\Downloads\Image.csproj\bin\Debug\Recognizer.exe
+C:\Users\igush\Downloads\Image.csproj\bin\Debug\Recognizer.pdb
+C:\Users\igush\Downloads\Image.csproj\obj\Debug\Image.csproj.AssemblyReference.cache
+C:\Users\igush\Downloads\Image.csproj\obj\Debug\Image.csproj.CoreCompileInputs.cache
+C:\Users\igush\Downloads\Image.csproj\obj\Debug\Recognizer.exe
+C:\Users\igush\Downloads\Image.csproj\obj\Debug\Recognizer.pdb
+C:\Users\igush\IdeaProjects\Image\bin\Debug\eurobot.bmp
+C:\Users\igush\IdeaProjects\Image\bin\Debug\Recognizer.exe.config
+C:\Users\igush\IdeaProjects\Image\bin\Debug\Recognizer.exe
+C:\Users\igush\IdeaProjects\Image\bin\Debug\Recognizer.pdb
+C:\Users\igush\IdeaProjects\Image\obj\Debug\Image.csproj.AssemblyReference.cache
+C:\Users\igush\IdeaProjects\Image\obj\Debug\Image.csproj.CoreCompileInputs.cache
+C:\Users\igush\IdeaProjects\Image\obj\Debug\Recognizer.exe
+C:\Users\igush\IdeaProjects\Image\obj\Debug\Recognizer.pdb
